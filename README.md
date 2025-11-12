@@ -59,7 +59,7 @@ bonus if your heart still beats to the rhythm of binary.”
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/vampire-bio-with-ai.git
+git clone https://github.com/Chaloemsak1010/vampire-bio-with-ai.git
 cd vampire-bio-with-ai
 ````
 
