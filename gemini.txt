@@ -1,0 +1,5 @@
+Model                             | Free Tier Daily Limit (RPD) | Token Limit (TPM) | Notes
+----------------------------------|----------------------------|--------------------|------------------------------------------------------------
+Gemini 2.5 Flash                  | 250 to 500 requests        | 250,000 TPM        | This is the workhorse model and often has the highest free limits for text.
+Gemini 2.5 Pro                    | 50 to 100 requests         | 125,000 TPM        | This is the most powerful model, so its daily request limit is much lower.
+Image Generation (using Imagen)   | Up to 100 images per day   | N/A                | This is a fixed limit on the output.
