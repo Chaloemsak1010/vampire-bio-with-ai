@@ -126,9 +126,5 @@ proving that even vampires deserve love in the age of AI.
 
 🦇 *“Eternal hearts meet not in daylight… but in code.”* 💻❤️
 
-```
-
 ---
 
-Would you like me to add a **preview image section** (for GitHub social card or thumbnail) showing your UI screenshot mockup? It can make the README more attractive.
-```
